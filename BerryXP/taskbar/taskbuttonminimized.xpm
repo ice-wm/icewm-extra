@@ -1,0 +1,8 @@
+/* XPM */
+static char * taskbuttonbg_xpm[] = {
+"1 2 3 1",
+" 	c None",
+".	c #6DDEFF",
+"+	c #0EB7FF",
+".",
+"+"};

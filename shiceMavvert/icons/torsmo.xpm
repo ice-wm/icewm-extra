@@ -1,0 +1,22 @@
+/* XPM */
+static char *torsmo[]={
+"16 16 3 1",
+"# c None",
+". c None",
+"a c #cfcfcf",
+".##.##.########.",
+".##..aa......##.",
+".###.aa......##.",
+".aa..aa......##.",
+".aa..aa.....###.",
+".aa..aa..##..aa.",
+".aa..aa..##..aa.",
+".aa..aa..aa..aa.",
+".aa..aa..aa..aa.",
+".aa..aa..aa..aa.",
+".aa.#aa##aa##aa.",
+".aa..aa..aa..aa.",
+"................",
+"................",
+".aaaaaaaaaaaaaa.",
+".aaaaaaaaaaaaaa."};

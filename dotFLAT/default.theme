@@ -1,0 +1,36 @@
+#
+# "dotFLAT"
+# v0.1
+#
+# Lars Siebold <khandha5@gmx.net>
+# Loosely based on PureOrange
+#
+
+# changelog:
+# 02/04/02 0.2.1: Added "a little bit of a gap between the right hand edge and the start of the title text"
+# 01/04/02 0.2:   Move to 2px borders
+# 22/03/02 0.1:   Initial release
+
+
+
+ThemeDescription"dotFlat"
+ThemeAuthor="Lars Siebold <khandha5@gmx.net>"
+
+Look=pixmap
+TitleButtonsRight=xmid
+TitleButtonsLeft=s
+TitleButtonsSupported=sxmid
+TitleBarHeight=20
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=14
+CornerSizeY=14
+DlgBorderSizeX=0
+DlgBorderSizeY=0
+
+ColorActiveTitleBar=#085D8B
+ColorNormalTitleBar=#ffffff
+ColorNormalButton=#EEEAEE
+ColorActiveButton=#ffffff
+

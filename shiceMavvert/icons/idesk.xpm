@@ -1,0 +1,22 @@
+/* XPM */
+static char *idesk[]={
+"16 16 3 1",
+"a c None",
+". c None",
+"# c #cfcfcf",
+".##a##a##a##a##.",
+".#aaaaaaaaaaaa#.",
+".aaaaaaaaaaaaaa.",
+".#aaaaaaaaaaaa#.",
+".#aaaaaaaaaaaa#.",
+".aaaaaaaaaaaaaa.",
+".#aaaaaaaaaaaa#.",
+".#aaaaaaaaaaaa#.",
+".aaaaaaaaaaaaaa.",
+".#aaaaaaaaaaaa#.",
+".##a##a##a##a##.",
+".aaaaaaaaaaaaaa.",
+".aaaaaaaaaaaaaa.",
+".aaaaaaaaaaaaaa.",
+".##############.",
+".##############."};

@@ -1,0 +1,125 @@
+ThemeDescription="LightBox - simple flat theme for IceWM"
+
+ThemeAuthor="Pento.E-mail:naplanetu@gmail.com"
+
+Look=flat
+
+Gradients="menubg.xpm menusel.xpm switchbg.xpm taskbarbg.xpm dialogbg.xpm taskbuttonbg.xpm taskbuttonactive.xpm taskbuttonminimized.xpm buttonA.xpm buttonI.xpm toolbuttonbg.xpm workspacebuttonbg.xpm workspacebuttonactive.xpm menubg.xpm taskbuttonactive.xpm menusel.xpm titleIB.xpm titleAB.xpm titleAS.xpm titleIS.xpm"
+
+RolloverButtonsSupported=1
+
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xim"
+TitleBarHeight=16
+
+TitleBarJustify=50
+
+BorderSizeX=1
+BorderSizeY=1
+CornerSizeX=26
+CornerSizeY=26
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+ColorNormalButton="rgb:c7/c7/c7"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton="rgb:c7/c7/c7"
+ColorActiveButtonText="rgb:00/00/00"
+
+ColorNormalTitleBarText="rgb:7f/7f/7f"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarShadow="rgb:00/00/00"
+
+ColorActiveBorder="rgb:00/00/00"
+ColorNormalBorder="rgb:00/00/00"
+
+ColorDialog="rgb:ef/ef/ef"
+ColorListBox="rgb:ef/ef/ef"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:64/8a/ad"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+ColorScrollBar="rgb:00/00/00"
+ColorScrollBarSlider="rgb:00/00/00"
+ColorScrollBarButton="rgb:00/00/00"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorLabel="rgb:ef/ef/ef"
+ColorLabelText="rgb:00/00/00"
+
+ColorInput="rgb:00/00/00"
+ColorInputText="rgb:ff/ff/ff"
+
+ColorClock=""
+ColorClockText="rgb:00/00/00"
+
+ColorCPUStatusUser="rgb:00/8f/ff"
+ColorCPUStatusSystem="rgb:00/cf/ff"
+ColorCPUStatusNice="rgb:9d/a1/bc"
+ColorCPUStatusIdle="rgb:00/00/00"
+
+ColorNetSend="rgb:4c/59/a6"
+ColorNetReceive="rgb:9d/a1/bc"
+ColorNetIdle="00/00/00"
+
+ColorToolTip="rgb:ef/ef/ef"
+ColorToolTipText="rgb:00/00/00"
+
+ColorMoveSizeStatus="rgb:0f/0f/10"
+ColorMoveSizeStatusText="rgb:00/8f/ff"
+
+#
+# Quick switch windows dialog
+#
+# Background of the quick switch window
+ColorQuickSwitch="rgb:ef/ef/ef"
+#  Textcolor in the quick switch window
+ColorQuickSwitchText="rgb:00/00/00"
+#  Rectangle arround the active icon in the quick switch window
+ColorQuickSwitchActive="rgb:64/8a/ad"
+
+#
+# Task bar
+#
+ColorDefaultTaskBar="rgb:ef/ef/ef"
+ColorNormalTaskBarApp="rgb:00/00/00"
+ColorNormalTaskBarAppText="rgb:00/00/0"
+ColorInvisibleTaskBarApp="rgb:00/00/00"
+ColorInvisibleTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:00/00/00"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp="rgb:00/00/00"
+ColorMinimizedTaskBarAppText="rgb:00/00/00"
+ColorNormalWorkspaceButtonText="rgb:00/00/00"
+ColorActiveWorkspaceButtonText="rgb:00/00/00"
+
+#
+# Menu
+#
+ColorNormalMenu="rgb:ef/ef/ef"
+ColorActiveMenuItem="rgb:64/8a/ad"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+#
+# Font Specification
+#
+TitleFontNameXft		=	arial:size=9:bold
+MenuFontNameXft			=	arial:size=8:bold
+MinimizedWindowFontNameXft	=	arial:size=10:bold
+ActiveButtonFontNameXft		=	arial:size=10:bold
+NormalButtonFontNameXft		=	arial:size=10:bold
+ToolButtonFontNameXft		=	arial:size=10
+NormalWorkspaceFontNameXft	=	arial:size=10:bold
+ActiveWorkspaceFontNameXft	=	arial:size=4
+QuickSwitchFontNameXft		=	arial:size=11:bold
+ListBoxFontNameXft		=	arial:size=10:bold
+StatusFontNameXft		=	arial:size=10:bold
+ToolTipFontNameXft		=	arial:size=10:bold
+ActiveTaskBarFontNameXft	=	arial:size=10:bold
+NormalTaskBarFontNameXft	=	arial:size=10:normal
+ClockFontNameXft		=	arial:size=10:bold
+InputFontNameXft		=	sans-serif:size=10:bold
+
+TaskBarClockLeds=0
+

@@ -1,0 +1,103 @@
+ThemeDescription="Whistling"
+ThemeAuthor="dwl@wolsi.com"
+DesktopBackgroundColor=""
+TitleButtonsSupported="sxim"
+Look=pixmap
+
+
+# Uncomment this for the default Whistler background color
+#DesktopBackgroundColor="#008080"
+
+
+# Sorry, only windows-style buttons for this theme...
+# But that's probably what you want if you downloaded it.
+
+# The bottom frame is due to how icewm does frame sizing.
+# I can't think of any other solution right now.
+
+# The upper right-hand corner of the window isn't exact, but it will
+# have to do.
+
+
+TitleBarHeight=18
+
+BorderSizeX=4
+BorderSizeY=4
+CornerSizeX=35
+CornerSizeY=31
+DlgBorderSizeX=0
+DlgBorderSizeY=0
+
+ColorNormalBorder=#eeeee6
+ColorActiveBorder=#4a95f6
+
+ColorActiveTitleBar=#d5d6d5
+ColorNormalTitleBar=#d5d6d5
+ColorNormalTitleBarText=#bdbdbd
+ColorActiveTitleBarText=#ffffff
+
+ColorNormalMenu="rgb:C0/C0/C0"
+ColorActiveMenuItem=#000080
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:FF/FF/FF"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorDefaultTaskBar="rgb:C0/C0/C0"
+ColorNormalTaskBarApp="rgb:C0/C0/C0"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp=#D7D7D7
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp=#808080
+ColorMinimizedTaskBarAppText="rgb:00/00/00"
+
+ColorNormalButton="rgb:C0/C0/C0"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton=#D7D7D7
+ColorActiveButtonText="rgb:00/00/00"
+
+ColorListBox="rgb:C0/C0/C0"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:80/80/80"
+ColorListBoxSelectionText="rgb:00/00/00"
+
+ColorInput=#D7D7D7
+ColorInputText=#000
+ColorInputSelection=#D7D7D7
+ColorInputSelectionText=#000
+
+TaskBarClockLeds=1
+ColorClock="rgb:C0/C0/C0"
+ColorClockText="rgb:00/00/00"
+
+TitleButtonsLeft='s'
+TitleButtonsRight='xmi'
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorDialog="rgb:C0/C0/C0"
+
+ColorToolTip="#FDF1A5"
+ColorToolTipText="rgb:00/00/00"
+
+TitleFontNameXft		=	helvetica:bold:size=9
+MenuFontNameXft			=	helvetica:size=10
+MinimizedWindowFontNameXft	=	helvetica:size=10
+ActiveButtonFontNameXft		=	helvetica:size=10
+NormalButtonFontNameXft		=	helvetica:size=10
+ToolButtonFontNameXft		=	helvetica:size=10
+NormalWorkspaceFontNameXft	=	helvetica:size=10
+ActiveWorkspaceFontNameXft	=	helvetica:size=10
+QuickSwitchFontNameXft		=	helvetica:size=10
+ListBoxFontNameXft		=	helvetica:size=10
+StatusFontNameXft		=	helvetica:size=10
+ToolTipFontNameXft		=	helvetica:size=10
+ActiveTaskBarFontNameXft	=	helvetica:bold:size=10
+NormalTaskBarFontNameXft	=	helvetica:size=10
+ClockFontNameXft		=	helvetica:bold:size=10
+InputFontNameXft		=	helvetica:size=10
+ApmFontNameXft			=	helvetica:size=10
+LabelFontNameXft		=	helvetica:size=10

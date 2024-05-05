@@ -1,0 +1,114 @@
+ThemeDescription="Whistling"
+ThemeAuthor="dwl@wolsi.com"
+DesktopBackgroundColor=""
+TitleButtonsSupported="sxim"
+Look=metal
+
+
+# Uncomment this for the default Whistler background color
+#DesktopBackgroundColor="#004894"
+
+
+# Sorry, only windows-style buttons for this theme...
+# But that's probably what you want if you downloaded it.
+
+# The bottom frame is due to how icewm does frame sizing.
+# I can't think of any other solution right now.
+
+# The upper right-hand corner of the window isn't exact, but it will
+# have to do.
+
+
+TitleBarHeight=21
+
+BorderSizeX=4
+BorderSizeY=1
+CornerSizeX=35
+CornerSizeY=35
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+ColorNormalBorder=#E7E7E7
+ColorActiveBorder=#4a95f6
+
+ColorActiveTitleBar=#d5d6d5
+ColorNormalTitleBar=#d5d6d5
+ColorNormalTitleBarText=#7ba5ff
+ColorActiveTitleBarText=#ffffff
+
+ColorNormalMenu=#E7E7E7
+ColorActiveMenuItem=#A5BEDE
+ColorNormalMenuItemText=#000
+ColorActiveMenuItemText=#000
+ColorDisabledMenuItemText=#aaaaaa
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorDefaultTaskBar=#E7E7E7
+ColorNormalTaskBarApp=#E7E7E7
+ColorNormalTaskBarAppText=#000
+ColorActiveTaskBarApp=#A5BEDE
+ColorActiveTaskBarAppText=#000
+ColorMinimizedTaskBarApp=#dddddd
+ColorMinimizedTaskBarAppText=#333
+
+ColorNormalButton=#E7E7E7
+ColorNormalButtonText=#000
+ColorActiveButton=#A5BEDE
+ColorActiveButtonText=#000
+
+ColorListBox=#c6c6c6
+ColorListBoxText=#000
+ColorListBoxSelection=#cdd6e6
+ColorListBoxSelectionText=#000
+
+ColorInput=#fff
+ColorInputText=#000
+ColorInputSelection=#cdd6e6
+ColorInputSelectionText=#000
+
+TaskBarClockLeds=0
+ColorClock=#E7E7E7
+ColorClockText=#000
+
+#ColorCPUStatusIdle=#E7E7E7
+#ColorNetIdle=#E7E7E7
+ColorCPUStatusUser="rgb:4c/59/a6"
+ColorCPUStatusSystem="rgb:74/7c/b0"
+ColorCPUStatusNice="rgb:9d/a1/bc"
+ColorCPUStatusIdle="rgb:10/10/10"
+
+ColorNetSend="rgb:4c/59/a6"
+ColorNetReceive="rgb:9d/a1/bc"
+ColorNetIdle="rgb:29/61/b4"
+
+TitleButtonsLeft='s'
+TitleButtonsRight='xmi'
+
+ColorMoveSizeStatus=#E7E7E7
+ColorMoveSizeStatusText=#000
+
+ColorDialog=#E7E7E7
+
+ColorToolTip="#FDF1A5"
+ColorToolTipText="rgb:00/00/00"
+
+TitleFontNameXft		=	helvetica:bold:size=9
+MenuFontNameXft			=	helvetica:size=10
+MinimizedWindowFontNameXft	=	helvetica:size=10
+ActiveButtonFontNameXft		=	helvetica:size=10
+NormalButtonFontNameXft		=	helvetica:size=10
+ToolButtonFontNameXft		=	helvetica:size=10
+NormalWorkspaceFontNameXft	=	helvetica:size=10
+ActiveWorkspaceFontNameXft	=	helvetica:size=10
+QuickSwitchFontNameXft		=	helvetica:size=10
+ListBoxFontNameXft		=	helvetica:size=10
+StatusFontNameXft		=	helvetica:size=10
+ToolTipFontNameXft		=	helvetica:size=10
+ActiveTaskBarFontNameXft	=	helvetica:bold:size=10
+NormalTaskBarFontNameXft	=	helvetica:size=10
+ClockFontNameXft		=	helvetica:bold:size=10
+InputFontNameXft		=	helvetica:size=10
+ApmFontNameXft			=	helvetica:size=10
+LabelFontNameXft		=	helvetica:size=10

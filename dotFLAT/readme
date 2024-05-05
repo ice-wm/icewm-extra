@@ -1,0 +1,25 @@
+dotFLAT window decoration
+
+-----------
+
+author: Lars Siebold <khandha5@gmx.net>
+Losely based on Pure Orange
+This goes along nicely with the dotNET theme and the default color scheme.
+
+Changelog:
+0.2.1: Added "a little bit of a gap between the right hand edge and the start of the title text"
+0.2:   Converted to use 2 pixel borders.
+0.1:   Initial Release
+
+Extract the contents of this archive into the directory
+~/.kde/share/apps/kwin/icewm-themes/ 
+
+or to
+
+$KDEDIR/share/apps/kwin/icewm-themes/
+for a system-wide istallation.
+
+
+
+
+    

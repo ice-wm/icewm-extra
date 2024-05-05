@@ -1,0 +1,10 @@
+/* XPM */
+static char * menusel_xpm[] = {
+"2 2 5 1",
+" 	c None",
+".	c #D0E4F9",
+"+	c #6CA9EC",
+"@	c #C4DDF8",
+"#	c #61A2EA",
+".+",
+"@#"};

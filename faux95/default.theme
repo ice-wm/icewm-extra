@@ -1,0 +1,67 @@
+ThemeAuthor="Josef 'Jupp' Schugt <jupp@gmx.de>\nName of war: Deus X. Machina"
+ThemeDescription="Stays very close to win 95\nThis means that some nice features of icewm are switched of...\nDehancement is a good description :-("
+
+Look=warp4
+TitleButtonsSupported=imsx
+TitleButtonsRight=xmi
+TitleButtonsLeft=s
+
+TitleBarHeight=18
+BorderSizeX=4
+BorderSizeY=4
+
+ColorNormalBorder=#C0C0C0
+ColorActiveBorder=#C0C0C0
+ColorActiveTitleBar=#000078
+ColorNormalTitleBar=#787878
+ColorNormalButton=#C0C0C0
+ColorNormalTitleBarText=#000000
+ColorActiveTitleBarText=#FFFFFF
+ColorNormalMenu=#C0C0C0
+ColorActiveMenuItem=#000080
+ColorNormalMenuItemText=#000000
+ColorActiveMenuItemText=#FFFFFF
+ColorDisabledMenuItemText=#808080
+ColorMoveSizeStatus=#C0C0C0
+ColorMoveSizeStatusText=#000000
+ColorDefaultTaskBar=#C0C0C0
+ColorNormalTaskBarApp=#C0C0C0
+ColorNormalTaskBarAppText=#000000
+ColorActiveTaskBarApp=#E0E0E0
+ColorActiveTaskBarAppText=#000000
+ColorClock=#C0C0C0
+ColorClockText=#000000
+DesktopBackgroundColor=#006060
+
+TaskBarClockLeds=1
+TaskBarDoubleHeight=0
+TaskBarShowAPMStatus=0
+TaskBarShowAPMTime=0
+TaskBarShowAllWindows=0
+TaskBarShowCPUStatus=0
+TaskBarShowMailboxStatus=0
+TaskBarShowNetStatus=0
+TaskBarShowWindowListMenu=0
+TaskBarShowWorkspaces=0
+ShowThemesMenu=0
+MinimizeToDesktop=0
+
+TitleFontNameXft		=	helvetica:bold:size=9
+MenuFontNameXft			=	helvetica:bold:size=10
+ActiveMenuFontNameXft		=	helvetica:bold:size=10
+MinimizedWindowFontNameXft	=	helvetica:size=10
+ActiveButtonFontNameXft		=	helvetica:bold:size=10
+NormalButtonFontNameXft		=	helvetica:size=10
+ToolButtonFontNameXft		=	helvetica:size=10
+NormalWorkspaceFontNameXft	=	helvetica:size=10
+ActiveWorkspaceFontNameXft	=	helvetica:size=10
+QuickSwitchFontNameXft		=	helvetica:size=10
+ListBoxFontNameXft		=	helvetica:size=10
+StatusFontNameXft		=	helvetica:size=10
+ToolTipFontNameXft		=	helvetica:size=10
+ActiveTaskBarFontNameXft	=	helvetica:bold:size=10
+NormalTaskBarFontNameXft	=	helvetica:size=10
+ClockFontNameXft		=	helvetica:bold:size=10
+InputFontNameXft		=	helvetica:size=10
+ApmFontNameXft			=	helvetica:size=10
+LabelFontNameXft		=	helvetica:size=10

@@ -1,0 +1,9 @@
+/* XPM */
+static char * switchbg_xpm[] = {
+"2 2 4 1",
+" 	c None",
+".	c #45C8FF",
+"+	c #00A0E3",
+"@	c #0085BD",
+".+",
+"+@"};
